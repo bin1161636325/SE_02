@@ -8,4 +8,4 @@
 ## 开启小程序前端：
   - 用HBuilder打开Double_dice_front,运行后打开微信小程序开发软件,然后扫描二维码即可。
 ## 体验版：
-  - 
+  - ![osMju5JGfwTZYmtv3PjkXPWfs398](https://user-images.githubusercontent.com/78547679/195796930-beafddcf-aae6-4e45-b787-502696ea270d.jpg)
