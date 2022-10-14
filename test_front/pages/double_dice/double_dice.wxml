@@ -1,0 +1,13 @@
+<!--pages/telephone/telephone.wxml-->
+<button bindtap="sendRolldice1">在线游戏player1点击骰子事件</button>
+<button bindtap="sendRolldice2">在线游戏player2点击骰子事件</button>
+<button bindtap="sendPoint1">在线游戏player1下一步事件</button>
+<button bindtap="sendPoint2">在线游戏player2下一步事件</button>
+<button bindtap="Gofirst">决定谁先</button>
+<button bindtap="Rolldice1">player1摇骰子</button>
+<button bindtap="Rolldice2">player2摇骰子</button>
+<button bindtap="Point1">player1下一步</button>
+<button bindtap="Point2">player2下一步</button>
+<button bindtap="Ainextstep">人机下一步</button>
+<button bindtap="Rankinglist">排行榜</button>
+<button bindtap="Addrank">添加记录</button>
