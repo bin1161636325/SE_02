@@ -1,0 +1,66 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/welcome/welcome",
+      "style": {
+        "app-plus": {
+        		"animationType": "fade-in",
+        		"animationDuration": 300
+        	}
+      }
+		},
+    {
+    	"path": "pages/home/home",
+      "style": {
+        "app-plus": {
+        		"animationType": "fade-in",
+        		"animationDuration": 300
+        	}
+      }
+     
+    }
+	],
+  "subPackages": [{
+    "root": "subpkg",
+    "pages": [
+      {
+      "path": "rule/rule",
+      "style": {}
+      },
+       {
+       "path": "rank/rank",
+       "style": {}
+       },
+       {
+       "path": "localGame/localGame",
+       "style": {}
+       },
+       {
+       "path": "onlineGame/onlineGame",
+       "style": {}
+       },
+       {
+       "path": "robotGame/robotGame",
+       "style": {}
+       },
+       {
+       "path": "gameOver/gameOver",
+       "style": {}
+       },
+       {
+       "path": "matching/matching",
+       "style": {}
+       }
+      ]
+  }],
+   "component": true,
+    "usingComponents":{
+      "l-button":"node_modules/lin-ui/dist/index"
+    },
+	"globalStyle": {
+    "navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/home/home"
+  ],
+  "subPackages": [
+    {
+      "root": "subpkg",
+      "pages": [
+        "rule/rule",
+        "rank/rank",
+        "localGame/localGame",
+        "onlineGame/onlineGame",
+        "robotGame/robotGame",
+        "gameOver/gameOver",
+        "matching/matching"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

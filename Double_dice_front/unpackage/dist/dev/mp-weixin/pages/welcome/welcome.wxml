@@ -1,0 +1,1 @@
+<view class="content"><image class="bg _img" style="width:100%;height:100%;" src="https://s1.ax1x.com/2022/10/13/xdhhsU.jpg"></image><view class="play_button"><image class="play _img" style="width:482rpx;height:248rpx;" src="https://s1.ax1x.com/2022/10/13/xd64N6.png" open-type="getUserInfo" data-event-opts="{{[['tap',[['getUserProfile']]]]}}" bindtap="__e"></image></view></view>
